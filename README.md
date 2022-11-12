@@ -36,12 +36,3 @@ You are to create a typing game that can be played through the Cygwin terminal. 
   - In previous labs we have done similar things.
 - This is not something that will be made easier with ncurses.
 
-******
-
-### Rubric:
-- (20pts) Ability for the user to add words to the text file being used.
-- (30pts) Randomly choose and place the correct number of  words each time the user types in a response. 
-- (15pts) Correctly move all words down the appropriate number of lines each time the user enters a response.
-- (30pts) Correctly deleting the intended word after the user types it.
-- (5pts) Comments in your code
-- (100pts) Total Possible
